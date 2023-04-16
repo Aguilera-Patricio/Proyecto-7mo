@@ -1,0 +1,13 @@
+Estas secuencias especiales son las siguientes:
+
+\a Emite un pitido
+\b Retroceso (permite borrar el último carácter)
+\f Avance de página (expulsa una hoja en la impresora)
+\n Avanza de línea (salta a la línea siguiente)
+\r Retorno de carro (va al principio de la línea)
+\t Salto de tabulación horizontal
+\v Salto de tabulación vertical
+\' Muestra una comilla simple
+\" Muestra una comilla doble
+\\ Muestra una barra invertida
+\0 Carácter nulo (NULL)
