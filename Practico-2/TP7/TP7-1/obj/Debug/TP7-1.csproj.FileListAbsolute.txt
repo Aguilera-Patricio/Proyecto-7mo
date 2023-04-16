@@ -1,0 +1,8 @@
+E:\TP\TP7-1\TP7-1\obj\Debug\TP7-1.csproj.AssemblyReference.cache
+E:\TP\TP7-1\TP7-1\obj\Debug\TP7-1.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP7-1\TP7-1\obj\Debug\TP7-1.csproj.CoreCompileInputs.cache
+E:\TP\TP7-1\TP7-1\bin\Debug\TP7-1.exe.config
+E:\TP\TP7-1\TP7-1\bin\Debug\TP7-1.exe
+E:\TP\TP7-1\TP7-1\bin\Debug\TP7-1.pdb
+E:\TP\TP7-1\TP7-1\obj\Debug\TP7-1.exe
+E:\TP\TP7-1\TP7-1\obj\Debug\TP7-1.pdb

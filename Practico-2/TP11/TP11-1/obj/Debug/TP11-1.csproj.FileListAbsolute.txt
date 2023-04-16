@@ -1,0 +1,16 @@
+E:\TP\TP11-1\TP11-1\bin\Debug\TP11-1.exe.config
+E:\TP\TP11-1\TP11-1\bin\Debug\TP11-1.exe
+E:\TP\TP11-1\TP11-1\bin\Debug\TP11-1.pdb
+E:\TP\TP11-1\TP11-1\obj\Debug\TP11-1.csproj.AssemblyReference.cache
+E:\TP\TP11-1\TP11-1\obj\Debug\TP11-1.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP11-1\TP11-1\obj\Debug\TP11-1.csproj.CoreCompileInputs.cache
+E:\TP\TP11-1\TP11-1\obj\Debug\TP11-1.exe
+E:\TP\TP11-1\TP11-1\obj\Debug\TP11-1.pdb
+E:\TP\TP11\TP11-1\bin\Debug\TP11-1.exe.config
+E:\TP\TP11\TP11-1\bin\Debug\TP11-1.exe
+E:\TP\TP11\TP11-1\bin\Debug\TP11-1.pdb
+E:\TP\TP11\TP11-1\obj\Debug\TP11-1.csproj.AssemblyReference.cache
+E:\TP\TP11\TP11-1\obj\Debug\TP11-1.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP11\TP11-1\obj\Debug\TP11-1.csproj.CoreCompileInputs.cache
+E:\TP\TP11\TP11-1\obj\Debug\TP11-1.exe
+E:\TP\TP11\TP11-1\obj\Debug\TP11-1.pdb

@@ -1,0 +1,8 @@
+E:\TP\TP8-1\TP8-1\bin\Debug\TP8-1.exe.config
+E:\TP\TP8-1\TP8-1\bin\Debug\TP8-1.exe
+E:\TP\TP8-1\TP8-1\bin\Debug\TP8-1.pdb
+E:\TP\TP8-1\TP8-1\obj\Debug\TP8-1.csproj.AssemblyReference.cache
+E:\TP\TP8-1\TP8-1\obj\Debug\TP8-1.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP8-1\TP8-1\obj\Debug\TP8-1.csproj.CoreCompileInputs.cache
+E:\TP\TP8-1\TP8-1\obj\Debug\TP8-1.exe
+E:\TP\TP8-1\TP8-1\obj\Debug\TP8-1.pdb

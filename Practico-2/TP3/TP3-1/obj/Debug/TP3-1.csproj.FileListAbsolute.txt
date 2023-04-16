@@ -1,0 +1,8 @@
+E:\TP\TP3\TP3-1\bin\Debug\TP3-1.exe.config
+E:\TP\TP3\TP3-1\bin\Debug\TP3-1.exe
+E:\TP\TP3\TP3-1\bin\Debug\TP3-1.pdb
+E:\TP\TP3\TP3-1\obj\Debug\TP3-1.csproj.AssemblyReference.cache
+E:\TP\TP3\TP3-1\obj\Debug\TP3-1.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP3\TP3-1\obj\Debug\TP3-1.csproj.CoreCompileInputs.cache
+E:\TP\TP3\TP3-1\obj\Debug\TP3-1.exe
+E:\TP\TP3\TP3-1\obj\Debug\TP3-1.pdb

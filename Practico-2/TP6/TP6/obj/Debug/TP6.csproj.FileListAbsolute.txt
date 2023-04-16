@@ -1,0 +1,8 @@
+E:\TP\TP6\TP6\bin\Debug\TP6.exe.config
+E:\TP\TP6\TP6\bin\Debug\TP6.exe
+E:\TP\TP6\TP6\bin\Debug\TP6.pdb
+E:\TP\TP6\TP6\obj\Debug\TP6.csproj.AssemblyReference.cache
+E:\TP\TP6\TP6\obj\Debug\TP6.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP6\TP6\obj\Debug\TP6.csproj.CoreCompileInputs.cache
+E:\TP\TP6\TP6\obj\Debug\TP6.exe
+E:\TP\TP6\TP6\obj\Debug\TP6.pdb

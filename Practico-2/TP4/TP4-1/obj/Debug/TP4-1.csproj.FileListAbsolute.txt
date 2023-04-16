@@ -1,0 +1,8 @@
+E:\TP\TP4-1\TP4-1\bin\Debug\TP4-1.exe.config
+E:\TP\TP4-1\TP4-1\bin\Debug\TP4-1.exe
+E:\TP\TP4-1\TP4-1\bin\Debug\TP4-1.pdb
+E:\TP\TP4-1\TP4-1\obj\Debug\TP4-1.csproj.AssemblyReference.cache
+E:\TP\TP4-1\TP4-1\obj\Debug\TP4-1.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP4-1\TP4-1\obj\Debug\TP4-1.csproj.CoreCompileInputs.cache
+E:\TP\TP4-1\TP4-1\obj\Debug\TP4-1.exe
+E:\TP\TP4-1\TP4-1\obj\Debug\TP4-1.pdb

@@ -1,0 +1,8 @@
+E:\TP\TP10-1\TP10-1\bin\Debug\TP10-1.exe.config
+E:\TP\TP10-1\TP10-1\bin\Debug\TP10-1.exe
+E:\TP\TP10-1\TP10-1\bin\Debug\TP10-1.pdb
+E:\TP\TP10-1\TP10-1\obj\Debug\TP10-1.csproj.AssemblyReference.cache
+E:\TP\TP10-1\TP10-1\obj\Debug\TP10-1.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP10-1\TP10-1\obj\Debug\TP10-1.csproj.CoreCompileInputs.cache
+E:\TP\TP10-1\TP10-1\obj\Debug\TP10-1.exe
+E:\TP\TP10-1\TP10-1\obj\Debug\TP10-1.pdb
