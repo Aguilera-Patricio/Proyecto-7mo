@@ -31,17 +31,17 @@ namespace TP2
 
         public int calcularPerimetro() 
         {
-            return 2 * (largo + alto);
+            return (2 * (largo + alto));
         }
 
         public int calcularArea () 
         {
-            return largo * alto;
+            return (largo * alto);
         }
 
         public bool esUnCuadrado () 
         {
-            return largo == alto;
+            return (largo == alto);
         }
     }
 }

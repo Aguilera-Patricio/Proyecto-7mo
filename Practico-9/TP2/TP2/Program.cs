@@ -36,7 +36,7 @@ namespace TP2
             Console.WriteLine("El Cuadrilátero tiene 70 de largo y 50 de alto\n\n");
             Console.WriteLine("El Perímetro del Cuadrilátero es: " + cuadrilatero.calcularPerimetro());
             Console.WriteLine("La superficie del Cuadrilátero es: " + cuadrilatero.calcularArea());
-            Console.WriteLine("¿ El Cuadrilátero es un Cuadrado ? = " + cuadrilatero.esUnCuadrado());
+            Console.WriteLine("¿El Cuadrilátero es un Cuadrado? = " + cuadrilatero.esUnCuadrado());
 
             Console.WriteLine("\n---------------------------------------------------------------------------------------\n");
 

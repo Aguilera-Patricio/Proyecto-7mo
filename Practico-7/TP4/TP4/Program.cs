@@ -42,7 +42,7 @@ namespace TP4
 
             if (posicion >= 0 && posicion <= 19)
             {
-                if (array[posicion] == '\0')
+                if (array[posicion] == ' ' || array[posicion] == '\0')
                 {
                     array[posicion] = caracter;
 
