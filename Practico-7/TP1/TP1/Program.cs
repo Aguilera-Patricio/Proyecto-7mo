@@ -28,6 +28,11 @@ namespace TP1
                 Console.WriteLine(array[i]);
             }
 
+            for (int i = 4;i >= 0; i--) 
+            {
+                Console.WriteLine(array[i]);
+            }
+
             Console.WriteLine("\n-------------------------------------------------------------------------------------------------------------\n");
 
             Console.ReadKey();
