@@ -28,7 +28,30 @@
         /// </summary>
         private void InitializeComponent()
         {
+            btnIniciar = new Button();
+            etLabel = new Label();
             SuspendLayout();
+            // 
+            // btnIniciar
+            // 
+            btnIniciar.Font = new Font("Segoe UI Black", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            btnIniciar.Location = new Point(318, 335);
+            btnIniciar.Name = "btnIniciar";
+            btnIniciar.Size = new Size(125, 51);
+            btnIniciar.TabIndex = 2;
+            btnIniciar.Text = "Iniciar";
+            btnIniciar.UseVisualStyleBackColor = true;
+            btnIniciar.Click += btnIniciar_Click;
+            // 
+            // etLabel
+            // 
+            etLabel.AutoSize = true;
+            etLabel.Font = new Font("Algerian", 72F, FontStyle.Bold, GraphicsUnit.Point);
+            etLabel.Location = new Point(139, 98);
+            etLabel.Name = "etLabel";
+            etLabel.Size = new Size(496, 160);
+            etLabel.TabIndex = 3;
+            etLabel.Text = "Reloj";
             // 
             // Form1
             // 
@@ -36,11 +59,20 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(253, 249, 196);
             ClientSize = new Size(811, 454);
+            Controls.Add(etLabel);
+            Controls.Add(btnIniciar);
             Name = "Form1";
             Text = "Aguilera - P";
+            Load += Form1_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private TextBox textBox1;
+        private Label label1;
+        private Button btnIniciar;
+        private Label etLabel;
     }
 }

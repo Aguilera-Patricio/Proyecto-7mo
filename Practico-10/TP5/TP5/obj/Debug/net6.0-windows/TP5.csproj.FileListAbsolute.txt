@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\bin\Debug\net6.0-windows\TP5.exe
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\bin\Debug\net6.0-windows\TP5.deps.json
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\bin\Debug\net6.0-windows\TP5.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\bin\Debug\net6.0-windows\TP5.dll
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\bin\Debug\net6.0-windows\TP5.pdb
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\TP5.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\TP5.Form1.resources
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\TP5.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\TP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\TP5.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\TP5.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\TP5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\TP5.dll
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\refint\TP5.dll
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\TP5.pdb
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\TP5.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\Practico-10\TP5\TP5\obj\Debug\net6.0-windows\ref\TP5.dll
